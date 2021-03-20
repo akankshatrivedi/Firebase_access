@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>844618988183-qu4v8l3hf9r6750bch47hc7cj2jf19jd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.844618988183-qu4v8l3hf9r6750bch47hc7cj2jf19jd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDv4lHmD05VDk3APa8WcQqwHw1DNaalh28</string>
+	<key>GCM_SENDER_ID</key>
+	<string>844618988183</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Sweety.Access2</string>
+	<key>PROJECT_ID</key>
+	<string>access-d6caf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>access-d6caf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:844618988183:ios:1ff648aa4a43145b2c47d2</string>
+	<key>DATABASE_URL</key>
+	<string>https://access-d6caf.firebaseio.com</string>
+</dict>
+</plist>
